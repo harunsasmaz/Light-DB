@@ -58,7 +58,7 @@ BTree is one type of the balanced trees;
 
 > select
 
-<b> Note that, rows are printed in ascending order by id.
+<b> Note that, rows are printed in ascending order by id. </b>
 
 <h3> Meta-commands </h3>
 
