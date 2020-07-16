@@ -93,3 +93,7 @@ LightDB sends a warning message to the prompt in the following cases:
 <h4> Next </h4>
 
 * E-mail regex validation.
+
+## Acknowledgements
+
+I give special thanks and credit to <b>Connor Stack</b> and his great tutorial [here](https://cstack.github.io/db_tutorial/).
