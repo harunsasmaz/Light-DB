@@ -34,6 +34,14 @@ BTree is one type of the balanced trees;
 
 * <b>Note that this table can be adjusted within the code. </b>
 
+## Compile and Run
+
+- make
+
+- ./lightdb {db name}.db
+
+<b> .db extension is not required however .db files can be easily removed by: </b>
+    - make cleandb
 
 ## Operations
 
