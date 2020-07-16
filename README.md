@@ -24,6 +24,8 @@ BTree is one type of the balanced trees;
 
 * Traversing a range of values is fast! (Unlike hashmap)
 
+  * This property allows us to keep rows sorted in database easily.
+
 <h3> Our Hard-Coded Table </h3>
 
 | <b>column</b> | <b>type</b>  |
@@ -55,6 +57,8 @@ BTree is one type of the balanced trees;
 <h4> Print all rows </h4>
 
 > select
+
+<b> Note that, rows are printed in ascending order by id.
 
 <h3> Meta-commands </h3>
 
