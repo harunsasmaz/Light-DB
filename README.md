@@ -26,17 +26,17 @@ LightDB is a tiny clone of SQLite, which uses BTrees for fast lookups and hence 
 
 <h3> Statements </h3>
 
-<h4> Insert </h4>
+<h4> Insert an element </h4>
 
 > insert {id} {username} {email}
 
-<h4> Select </h4>
+<h4> Print all rows </h4>
 
 > select
 
 <h3> Meta-commands </h3>
 
-<h4> Exit </h4>
+<h4> Exit from DB </h4>
 
 > .exit
 
